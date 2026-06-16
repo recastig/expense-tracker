@@ -1,1 +1,1 @@
-# TripleTen web_project_expenses
+Projeto de iniciação em Javascript para criação de aplicação financeira funcional.
