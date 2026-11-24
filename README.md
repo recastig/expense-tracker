@@ -35,7 +35,7 @@ Não é necessário instalar dependências ou executar um servidor de desenvolvi
 ## Organização do projeto
 
 ```text
-web_project_expenses_pt/
+expense-tracker/
 ├── blocks/                # Estilos por componente/bloco
 ├── images/                # Ícones
 ├── pages/index.css        # Entrada dos estilos
